@@ -3,7 +3,7 @@
 <!--
 **RuotingWang/RuotingWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - I'm a third year undergraduate chemistry student at McMaster University! 
 - I realllly like organic chemistry... so I guess orgo is what I'll be working on 
